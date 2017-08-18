@@ -1,0 +1,19 @@
+{
+  "name": "node-async-array-class",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/AsyncArray.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aquz/node-async-array-class.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aquz/node-async-array-class/issues"
+  },
+  "homepage": "https://github.com/aquz/node-async-array-class#readme"
+}
